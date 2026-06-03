@@ -1,24 +1,36 @@
 # My Prompt (seeking legitimate) 1.
-What time is my class?
+  What time is my class?
 
-# Response 1.
-CSC-114 meets Monday and Wednesday, 10:00–10:50 AM for lecture and 11:00–11:50 AM for lab, in ATC 115.
+  # Response 1.
+    CSC-114 meets Monday and Wednesday, 10:00–10:50 AM for lecture and 11:00–11:50 AM for lab, in ATC 115.
+
+    # Note 1
+      Claude got this correct
 
 # My Prompt (seeking failure) 2.
-Do I need a raincoat for the dolphins in the class?
+  Do I need a raincoat for the dolphins in the class?
 
-# Response 2.
-That's outside what I'm here for — I'm the CSC-114 TA, not a marine biology resource! No dolphins in this class, just AI.
-Want to talk about something course-related, like what's coming up this week or how the Managed Agents module works?
+  # Response 2.
+    That's outside what I'm here for — I'm the CSC-114 TA, not a marine biology resource! No dolphins in this class, just AI.
+    Want to talk about something course-related, like what's coming up this week or how the Managed Agents module works?
+
+    #Note 2
+      I feel Claude handled this appropiately with a little humor and then trying to redirect back to what it knows
 
 # My Prompt (seeking edge case) 3.
-Since I am still new to python, should I take the coding path or prompting path?
+  Since I am still new to python, should I take the coding path or prompting path?
 
-# Response 3.
-That's a great question, and it's worth being upfront: I don't have details about a "coding path" vs. "prompting path" distinction in the course materials I have access to. That sounds like it might be specific to a Canvas page, assignment instructions, or something the instructors covered in class that I don't have visibility into.
-I'd recommend reaching out to Mallory Milstead or Andrew Norris directly to ask — they can point you in the right direction based on your background.
+  # Response 3.
+    That's a great question, and it's worth being upfront: I don't have details about a "coding path" vs. "prompting path" distinction in the course materials I have access to. 
+    That sounds like it might be specific to a Canvas page, assignment instructions, or something the instructors covered in class that I don't have visibility into.
+    I'd recommend reaching out to Mallory Milstead or Andrew Norris directly to ask — they can point you in the right direction based on your background.
+  
+    Mallory: milsteam@faytechcc.edu / 910-678-8572
+    Andrew: norrisa@faytechcc.edu / 910-486-3967
+  
+    What I can tell you is that the course does involve both hands-on coding (Keras, PyTorch, ML workflows) and working with agents through prompting — 
+    so both skills will come up. Is there a specific assignment or module you're trying to figure out how to approach?
 
-Mallory: milsteam@faytechcc.edu / 910-678-8572
-Andrew: norrisa@faytechcc.edu / 910-486-3967
-
-What I can tell you is that the course does involve both hands-on coding (Keras, PyTorch, ML workflows) and working with agents through prompting — so both skills will come up. Is there a specific assignment or module you're trying to figure out how to approach?
+      # Note 3
+        Claude definently handled this correctly by letting me know it had no information and since it seemed like a reasonable question, it then directed me to contacting the instructors 
+        for more information
