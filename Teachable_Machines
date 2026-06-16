@@ -1,0 +1,4 @@
+In class we had used the teachable machines from google to attempt to teach it the difference between 2 numbers on 2 different cards 
+and a neutral background so as to not allow it to classify a number as a person. We found out that it attempted to classify the number 3
+as a number 8 and until we updated the neutral background to include 2 people, it tried to classify it as a number 8 with anyone else
+in the background. 
